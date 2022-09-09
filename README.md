@@ -1,1 +1,1 @@
-# devina-clinic
+# Devina Clinic Database Management App
