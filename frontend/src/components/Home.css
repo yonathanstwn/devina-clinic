@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Roboto+Mono:wght@500&display=swap');
+
+h1, h2, h3, h4, h5, h6, p, label{
+    font-family: "Roboto Mono", sans-serif;
+    color: #2a0a46
+}
+
+.Dashboard{
+    background-color: #a25ce0;
+}
+
+.StoreName{
+    font-size:50px;
+  }
+
+.Content{
+    text-align: center;
+
+}
+
+.fontsize-60px{
+    font-size: 60px;
+}
+
+
+.left-right{
+    animation: left-right 30s infinite
+}
+
+@keyframes left-right{
+    from {
+        transform: translateX(-100%);
+
+    }
+    to {
+        transform: translateX(100%);
+    }
+}
+
+#trending{
+    background-color: #5d228f; 
+}
+
+body {
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+  }

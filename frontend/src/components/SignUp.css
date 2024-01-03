@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Roboto+Mono:wght@500&display=swap');
+
+body {
+  background-color: #a473ce;
+}
+
+.App {
+  text-align: center;
+}
+
+
+
+h1, h2, h3, h4, h5, h6, p, label{
+  font-family: 'Roboto Mono', sans-serif;
+  color: #410179
+}
+
+.Dashboard{
+  background-color: #a25ce0;
+}
+
+.StoreName{
+  font-size:50px;
+}
+
+.Signup{
+  font-size: 50px;
+}
+
+/* App.css */
+#textField {
+  font-family: 'Roboto Mono', sans-serif;
+  font-size: 14px;
+  /* Add any other desired styles */
+}
