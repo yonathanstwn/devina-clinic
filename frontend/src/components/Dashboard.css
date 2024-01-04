@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Roboto+Mono:wght@500&display=swap');
+
+h1, h2, h3, h4, h5, h6, p, label{
+    font-family: "Roboto Mono", sans-serif;
+    color: #410179
+}
+
+.Dashboard{
+    background-color: #a25ce0;
+}
+
+.StoreName{
+    font-size:50px;  }
+
+.home-link{
+    font-size: 30px;
+}
+
+.imgDevina{
+    width: 30px;
+}
+
